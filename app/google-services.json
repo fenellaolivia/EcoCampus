@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454604203601",
+    "project_id": "ecocampusv1",
+    "storage_bucket": "ecocampusv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454604203601:android:ed83215fa853ad32d6ba70",
+        "android_client_info": {
+          "package_name": "com.fenella.ecocam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454604203601-0s4cqs0b7p5uo3lcnaetc21pkghd21as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAal8M4sIU9qX5ISRgzwMikqTk8_GvzjlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454604203601-0s4cqs0b7p5uo3lcnaetc21pkghd21as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name = "EcoCam"
+include ':app'

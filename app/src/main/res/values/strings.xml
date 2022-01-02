@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EcoCam</string>
+
+    <string-array name="nationality">
+        <item>Malaysia</item>
+        <item>Others</item>
+    </string-array>
+</resources>
